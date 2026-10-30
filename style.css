@@ -1,0 +1,18 @@
+.hero{
+    filter: drop-shadow(5px 5px 20px #fc7393);
+}
+#pic{
+    width: 400px;
+    height: 300px;
+    margin-left: 90px;
+}
+.head{
+    font-weight: 200;
+}
+li:hover{
+    color: #fc7393;
+    cursor: pointer;
+}
+.five:hover{
+    box-shadow: 1px 1px 15px #fc7393;
+}
